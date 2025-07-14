@@ -336,8 +336,6 @@ MigrationBackup/
 .ionide/
 
 # Deployment artifacts
-*.zip
-app.zip
 publish/
 
 # Azure publish settings (contains credentials)
