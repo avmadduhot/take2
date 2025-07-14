@@ -339,7 +339,6 @@ MigrationBackup/
 *.zip
 app.zip
 publish/
-deploy.ps1
 
 # Azure publish settings (contains credentials)
 *.PublishSettings
